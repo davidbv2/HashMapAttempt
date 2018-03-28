@@ -20,25 +20,25 @@ public class HashMapTry {
 
 		        HashMap<String, Integer> hmap = new HashMap<String, Integer>();
 
-		      hmap.put("NumOne", DonnysNums[0]);
+		      hmap.put("NumOne-1", DonnysNums[0]);
 
-		      hmap.put("NumTwo", DonnysNums[1]); 
+		      hmap.put("NumTwo-1", DonnysNums[1]); 
 
-		      hmap.put("NumTwo", DonnysNums[2]);
+		      hmap.put("NumTwo-2", DonnysNums[2]);
 
-		      hmap.put("NumThree",DonnysNums[3]);
+		      hmap.put("NumThree-1",DonnysNums[3]);
 
-		      hmap.put("NumThree",DonnysNums[4]);
+		      hmap.put("NumThree-2",DonnysNums[4]);
 
-		      hmap.put("NumThree",DonnysNums[5]);
+		      hmap.put("NumThree-3",DonnysNums[5]);
 
-		      hmap.put("NumFour", DonnysNums[6]);
+		      hmap.put("NumFour-1", DonnysNums[6]);
 
-		      hmap.put("NumFour", DonnysNums[7]);
+		      hmap.put("NumFour-2", DonnysNums[7]);
 
-		      hmap.put("NumFour", DonnysNums[8]);
+		      hmap.put("NumFour-3", DonnysNums[8]);
 
-		      hmap.put("NumFour", DonnysNums[9]);
+		      hmap.put("NumFour-4", DonnysNums[9]);
 
 		        System.out.println("Enter the value that you would like to find multiples of:");
 
